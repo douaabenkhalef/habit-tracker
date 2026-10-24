@@ -1,0 +1,10 @@
+{
+  "description": "Track your daily activities with a modern tool that provides insightful statistics, helping you optimize your time and improve productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
